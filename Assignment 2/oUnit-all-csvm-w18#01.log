@@ -1,0 +1,48 @@
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:0:fast_expt.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:0:fast_expt is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:0:fast_expt.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:1:ifast_expt.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:1:ifast_expt is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:1:ifast_expt.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:2:fast_mult.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:2:fast_mult is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:2:fast_mult.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:3:ifast_mult.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:3:ifast_mult is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:3:ifast_mult.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:4:isum.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:4:isum is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:4:isum.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:5:product_rec.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:5:product_rec is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:5:product_rec.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:6:factorial_rec.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:6:factorial_rec is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:6:factorial_rec.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:7:product_iter.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:7:product_iter is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:7:product_iter.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:8:factorial_iter.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:8:factorial_iter is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:8:factorial_iter.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:9:pi_approx.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:9:pi_approx is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:9:pi_approx.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:10:sum.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:10:sum is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:10:sum.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:11:product.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:11:product is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:11:product.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:12:compose.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:12:compose is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:12:compose.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:13:repeated.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:13:repeated is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:13:repeated.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:14:is_prime.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:14:is_prime is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:14:is_prime.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Start test all:15:smallest_prime_factor.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: Test all:15:smallest_prime_factor is successful.
+2018-01-31T07:13:02+00:00 csvm-w18#01 I: End test all:15:smallest_prime_factor.

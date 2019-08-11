@@ -1,0 +1,37 @@
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:0:Problem A.1.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:0:Problem A.1 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:0:Problem A.1.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:1:Problem A.2.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:1:Problem A.2 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:1:Problem A.2.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:2:Problem A.3.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:2:Problem A.3 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:2:Problem A.3.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:3:Problem A.4.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:3:Problem A.4 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:3:Problem A.4.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:4:Problem A.5.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:4:Problem A.5 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:4:Problem A.5.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:5:Problem A.6.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:5:Problem A.6 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:5:Problem A.6.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:6:Problem A.7.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:6:Problem A.7 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:6:Problem A.7.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:7:Problem B.1.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:7:Problem B.1 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:7:Problem B.1.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:8:Problem B.4.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:8:Problem B.4 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:8:Problem B.4.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:9:Problem C.1.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Test all:9:Problem C.1 is successful.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:9:Problem C.1.
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: Start test all:10:Problem C.2.
+2018-03-09T06:58:12+00:00 csvm-w18#01 E: Test all:10:Problem C.2 has failed.
+2018-03-09T06:58:12+00:00 csvm-w18#01 E: not equal in test all:10:Problem C.2.
+2018-03-09T06:58:12+00:00 csvm-w18#01 E: Called from unknown location
+2018-03-09T06:58:12+00:00 csvm-w18#01 E: Called from unknown location
+2018-03-09T06:58:12+00:00 csvm-w18#01 E: 
+2018-03-09T06:58:12+00:00 csvm-w18#01 I: End test all:10:Problem C.2.

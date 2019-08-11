@@ -1,0 +1,21 @@
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Start test all_tests:0:is_solved tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Test all_tests:0:is_solved tests is successful.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: End test all_tests:0:is_solved tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Start test all_tests:1:compare tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Test all_tests:1:compare tests is successful.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: End test all_tests:1:compare tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Start test all_tests:2:remove tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Test all_tests:2:remove tests is successful.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: End test all_tests:2:remove tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Start test all_tests:3:add tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Test all_tests:3:add tests is successful.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: End test all_tests:3:add tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Start test all_tests:4:remove/add tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Test all_tests:4:remove/add tests is successful.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: End test all_tests:4:remove/add tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Start test all_tests:5:make_move tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Test all_tests:5:make_move tests is successful.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: End test all_tests:5:make_move tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Start test all_tests:6:next tests.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: Test all_tests:6:next tests is successful.
+2019-03-12T05:32:48+00:00 csvm-w18#01 I: End test all_tests:6:next tests.
